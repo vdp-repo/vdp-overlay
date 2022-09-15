@@ -1,3 +1,3 @@
-repo for personal use 
+# vdp-overlay
 
-include latest version of Bitwig that I am currently using. 
+
